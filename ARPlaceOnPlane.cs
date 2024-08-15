@@ -1,4 +1,4 @@
-
+//단순 오브젝트 배치
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
